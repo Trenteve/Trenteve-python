@@ -166,3 +166,5 @@ Operator overloading
         return self.age + other.age
     print(self + other)
         This add method would be in the class with a constructor that initializes the ages.
+
+In a class in order to access a variable in multiple functions, we must use self.variable.
