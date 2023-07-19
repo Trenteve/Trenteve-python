@@ -128,10 +128,10 @@ Annotations are used to specify what type a variable will be, what type of input
 
 Exception handling
     try:
-        except <ERROR1>:
-            #handler
-        except <ERROR2>:
-            #handler
+    except <ERROR1>:
+        #handler
+    except <ERROR2>:
+        #handler
     else:
     finally:
 
